@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Luke Sassa
-- 👀 I’m interested in Computer Science, particularly Software Development, as well as Information Security.
-- 🌱 I’m currently learning about Unix systems, data structures, offensive hacking, and how to program in Go.
-- 📫 How to reach me:
+- Hi, I’m Luke Sassa
+- I’m interested in Computer Science, particularly Software Development, as well as Information Security.
+- I’m currently learning about Unix systems, data structures, offensive hacking, and how to program in Go.
+- How to reach me:
   - www.linkedin.com/in/luke-sassa
 
 <!---
