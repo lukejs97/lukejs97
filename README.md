@@ -1,10 +1,14 @@
-- Hi, I’m Luke Sassa!
-- I’m interested in Computer Science, particularly Software Development, as well as Information Security.
-- I’m currently working on developing an Elasticsearch search tool with the Python ES library, while setting up some physical server network infrastructure.
-- How to reach me: www.linkedin.com/in/luke-sassa
+Hi, I'm Luke Sassa 👋
 
-<!---
-lukejs97/lukejs97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- <!---- 💞️ I’m looking to collaborate on --->
+I'm a full-stack web developer at a small digital marketing agency, with a degree in computer science.
+
+**What I mostly work with:** PHP, JavaScript, Craft CMS, WordPress, Cloudways, Git, Claude Code
+
+**Work:** I build and maintain websites for our clients, from new sites and pages to ongoing updates and fixes. I use AI tools like Claude Code to speed up the work, and I've set up our sites so changes are tracked in Git and published in one step instead of uploaded by hand.
+
+**What I'm building on the side:**
+- **[Ironwork](https://github.com/lukejs97/ironwork)** – a weightlifting web app (installable on your phone) that works out which plates to load and your warm-up sets. A workout log is next.
+- **Bible study tool** – a web app for reading the Bible with side-by-side translations, original-language interlinear, and commentaries (Matthew Henry, Calvin, Gill) pulled up by verse.
+- **Calendar app** – a free calendar client built on Google Calendar, with Todoist and other services pulled in, for iPhone, Mac, Windows, and Android.
+
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/luke-sassa)
